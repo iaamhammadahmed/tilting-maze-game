@@ -1,9 +1,3 @@
-/*
-
-Follow me on twitter for more: https://twitter.com/HunorBorbely
-
-*/
-
 Math.minmax = (value, limit) => {
   return Math.max(Math.min(value, limit), -limit);
 };
